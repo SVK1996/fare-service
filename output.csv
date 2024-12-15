@@ -1,0 +1,4 @@
+FromLine,ToLine,DateTime,Fare
+Green,Green,2024-03-25T08:30:00,2
+Green,Red,2024-03-25T12:30:00,3
+Red,Green,2024-03-25T17:30:00,3
