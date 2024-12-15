@@ -1,0 +1,4 @@
+FromLine,ToLine,DateTime,Description
+Green,Green,2024-03-25T08:30:00,Morning peak journey
+Green,Red,2024-03-25T12:30:00,Off-peak journey
+Red,Green,2024-03-25T17:30:00,Evening peak journey

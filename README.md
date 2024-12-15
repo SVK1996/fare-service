@@ -45,3 +45,29 @@ fare-system/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
+## Setup and Run
+
+To set up and run the application, follow these steps:
+
+1. **Prerequisites:**
+   - Ensure you have Python 3.11.5 installed on your system.
+
+2. **Virtual Environment:**
+   - Create a virtual environment for the application to manage dependencies and isolate them from the system-wide Python environment.
+        ```
+        python3 -m venv venv
+        source venv/bin/activate
+        ```
+
+3. **Install Dependencies:**
+   - Install the required Python packages by running:
+     ```
+     pip install -r requirements.txt
+     ```
+
+4. **Start the Application:**
+   - Start the application server:
+     ```
+     python3 main.py
+     ```
