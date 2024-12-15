@@ -44,7 +44,7 @@ fare-system/
 │
 ├── main.py
 ├── requirements.txt
-└── README.md
+└── README.md```
 
 ## Setup and Run
 
