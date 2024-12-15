@@ -52,7 +52,7 @@ fare-system/
 To set up and run the application, follow these steps:
 
 1. **Prerequisites:**
-   - Ensure you have Python 3.11.5 installed on your system.
+   - Ensure you have Python 3.8+ installed on your system.
 
 2. **Virtual Environment:**
    - Create a virtual environment for the application to manage dependencies and isolate them from the system-wide Python environment.
@@ -72,3 +72,12 @@ To set up and run the application, follow these steps:
      ```
      python3 main.py
      ```
+
+## Future Improvements
+ 1. Support for more transit lines
+ 2. Zone-based pricing
+ 3. Special holiday rates
+ 4. Real-time fare calculation API
+ 5. Mobile app integration
+ 6. Historical data analysis
+ 7. Performance optimization for large datasets
